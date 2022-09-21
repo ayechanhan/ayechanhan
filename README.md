@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aye Chan Han</h1>
-<img align="right" alt="Coding" width="400" src="https://embed.lottiefiles.com/animation/120102">
+<img align="right" alt="Coding" width="400" src="./120102-404-error-page-with-cat.gif">
 <h3 align="center">A passionate backend developer from Myanmar.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayechanhan&label=Profile%20views&color=0e75b6&style=flat" alt="ayechanhan" /> </p>
